@@ -2,4 +2,4 @@ another file
 asdf
 
 first commit after tagging
-preparing for third version
+preparing for third version. bug fix!
