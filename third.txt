@@ -1,3 +1,4 @@
 thrid.txt
 
 commit in trunk
+verbose git
